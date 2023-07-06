@@ -2,7 +2,7 @@
 
 Site responsivo/flexbox.
 
-Neste projeto utilizamos o Flexbox para posicionar elementos em um site de lanchonete.
+Flexbox para posicionar elementos em um site de lanchonete.
 
 Os cards quebram a linha a em resoluçoes menos que 1020px.
 
